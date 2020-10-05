@@ -1,0 +1,36 @@
+
+ button{color:#2F4F4F}
+ table{color: #2F4F4F}
+[href="#huita1"] {
+	color:#2F4F4F;
+}
+[href="#huita2"] {
+	color:#2F4F4F;
+}
+[href="#huita3"] {
+	color:#2F4F4F;
+}
+[href=""] {
+	color:#2F4F4F 
+}
+.hui{
+	color:#FF1493;
+	font-weight: bold; 
+}
+.list  {
+	font-weight: bold;
+	color: #2F4F4F 
+}
+.listin  {
+	color: #9932CC	
+}
+.font-size-md{
+	font-size:25px;
+}
+.font-size-md.color-rosy{
+	color: #BC8F8F	
+}
+
+.font-size-md.color-brown{
+	color: #A52A2A		
+}
